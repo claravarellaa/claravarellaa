@@ -1,4 +1,4 @@
-## Olá 👋 Eu sou Clara Varella
+## Olá 👋 Eu sou Clara 
 Sou estudante de Desenvolvimento de Sistemas, com um olhar voltado para a integração entre tecnologia e medicina, especialmente na área cardíaca. Acredito que a computação pode ser uma aliada estratégica na compreensão e evolução dos cuidados com a saúde.
 
 Atualmente, dedico meus estudos ao desenvolvimento de sistemas, buscando formas de aplicar esse conhecimento para apoiar o aprendizado em medicina, explorar dados clínicos e entender melhor o funcionamento do corpo humano — com foco no coração.
